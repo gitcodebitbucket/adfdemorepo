@@ -1,0 +1,15 @@
+{
+	"name": "azuregitcode",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5693cff5-8fc0-4a25-989c-cbb63246a8cd",
+		"tenantId": "bd536b8d-fd90-4297-9bdd-1e82a29587fb"
+	}
+}
