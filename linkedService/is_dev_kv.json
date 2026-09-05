@@ -1,0 +1,11 @@
+{
+	"name": "is_dev_kv",
+	"properties": {
+		"description": "linked service for KV",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://KV-DEV-SURAJ.vault.azure.net/"
+		}
+	}
+}
